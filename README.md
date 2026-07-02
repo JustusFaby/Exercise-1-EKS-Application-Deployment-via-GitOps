@@ -9,7 +9,7 @@
 This repository contains the GitOps deployment configuration for the `payment-service` microservice on Amazon Elastic Kubernetes Service (EKS).
 
 ## 🎥 Demonstration Video
-**[Click here to watch the full deployment demonstration!](#)** *(Replace this link with your actual screen recording URL)*
+**[Click here to watch the full deployment demonstration!](https://drive.google.com/file/d/12oJ-Rw-eECuYLcFft0ecbkvWtfEExBOw/view?usp=sharing)** 
 
 ---
 
